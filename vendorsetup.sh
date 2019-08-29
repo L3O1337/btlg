@@ -1,1 +1,1 @@
-add_lunch_combo aosip_tulip-userdebug
+add_lunch_combo pa_tulip-userdebug
